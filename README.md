@@ -1,11 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Celso Vasconcelos</h1>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ruineto-dev&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=celsolnv&color=blue" alt="Profile views">
 
-<a href="https://wakatime.com/@139a4c52-8b15-48ba-8ed1-a3e108ef6a3f">
-  <img src="https://wakatime.com/badge/user/139a4c52-8b15-48ba-8ed1-a3e108ef6a3f.svg" alt="Total time coded since Oct 7 2021" />
-</a>
+
 </p>
 
 ### A Little About Me ... I'm Always Looking for Constant Challenges ... 🔭
